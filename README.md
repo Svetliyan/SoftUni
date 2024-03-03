@@ -1,1 +1,1 @@
-SoftUni University
+SoftUni
